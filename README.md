@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/Logo.png" alt="Logo Game On" width="100">
+</p>
+
 # GameOn : Créer une landing page avec Javascript
 
 GameOn est une entreprise spécialisée dans les conférences et les concours de jeux.
