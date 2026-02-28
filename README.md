@@ -1,8 +1,16 @@
-# Projet GameOn
-1. Forkez ce repo ;
-2. Il est conseillé d'utiliser VisualStudio Code et vous pouvez utiliser Docker, mais ce n'est pas obligatoire ;
-3. Il n'y a aucune dépendance ;
-4. Vous ne devez utiliser que du CSS personnalisé et du JavaScript pur, sans jQuery, Bootstrap ou autre librairie.
+# GameOn : Créer une landing page avec Javascript
 
-Lien : https://ksoniak.github.io/GameOn-website-FR/
+GameOn est une entreprise spécialisée dans les conférences et les concours de jeux.
+
+Pour ce projet, je devais reprendre la main sur un projet en cours. Jason, le développeur Front-End en charge du projet,  n’a pas eu le temps de le finir.
+
+## Technologies
+
+- JS
+- HTML
+- CSS
+
+## GitHub Pages
+
+https://ksoniak.github.io/GameOn-website-FR/
 
